@@ -4,9 +4,8 @@ import Skills from './components/Skills.jsx';
 import Projects from './components/Projects.jsx';
 import Contact from './components/Contact.jsx';
 import Education from './components/Education.jsx';
-import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
-import './App.css'
+import './App.css';
 
 function App() {
   const [count, setCount] = useState(0)
